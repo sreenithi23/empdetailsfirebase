@@ -30,8 +30,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the DatabaseTable using the firebasedatabase”.
-Developed by: SARANYA S
-Registeration Number : 212223220101
+Developed by:sreenithi
+Registeration Number : 212223220109
 */
 ```
 
